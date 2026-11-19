@@ -1,0 +1,6 @@
+# weekdays = ("monday" ,"tuesday", "wednesday", "thursday", "friday")
+# print(weekdays)
+location = (42.3423 , 71.0032)
+print(location)
+print(location[0])
+print(location[1])
